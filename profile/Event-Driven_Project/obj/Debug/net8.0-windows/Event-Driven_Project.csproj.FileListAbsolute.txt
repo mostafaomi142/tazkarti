@@ -1,0 +1,17 @@
+E:\Omar1000\Coding\Event-Driven_Project\bin\Debug\net8.0-windows\Event-Driven_Project.exe
+E:\Omar1000\Coding\Event-Driven_Project\bin\Debug\net8.0-windows\Event-Driven_Project.deps.json
+E:\Omar1000\Coding\Event-Driven_Project\bin\Debug\net8.0-windows\Event-Driven_Project.runtimeconfig.json
+E:\Omar1000\Coding\Event-Driven_Project\bin\Debug\net8.0-windows\Event-Driven_Project.dll
+E:\Omar1000\Coding\Event-Driven_Project\bin\Debug\net8.0-windows\Event-Driven_Project.pdb
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event_Driven_Project.Profile_Form.resources
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.csproj.GenerateResource.cache
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.AssemblyInfoInputs.cache
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.AssemblyInfo.cs
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.csproj.CoreCompileInputs.cache
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.dll
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\refint\Event-Driven_Project.dll
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.pdb
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event-Driven_Project.genruntimeconfig.cache
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\ref\Event-Driven_Project.dll
+E:\Omar1000\Coding\Event-Driven_Project\obj\Debug\net8.0-windows\Event_Driven_Project.Properties.Resources.resources
