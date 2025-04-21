@@ -1,0 +1,13 @@
+D:\Visual studio communtity\project\project\bin\Debug\project.exe.config
+D:\Visual studio communtity\project\project\bin\Debug\project.exe
+D:\Visual studio communtity\project\project\bin\Debug\project.pdb
+D:\Visual studio communtity\project\project\bin\Debug\Krypton.Toolkit.dll
+D:\Visual studio communtity\project\project\bin\Debug\Krypton.Toolkit.xml
+D:\Visual studio communtity\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\Visual studio communtity\project\project\obj\Debug\project.Form1.resources
+D:\Visual studio communtity\project\project\obj\Debug\project.Properties.Resources.resources
+D:\Visual studio communtity\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Visual studio communtity\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Visual studio communtity\project\project\obj\Debug\project.csproj.Up2Date
+D:\Visual studio communtity\project\project\obj\Debug\project.exe
+D:\Visual studio communtity\project\project\obj\Debug\project.pdb
