@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\work files\\projects\\WinFormsApp1\\",
+  "WorkspaceRootPath": "D:\\work files\\projects\\tazkarti\\tazkarti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47B3B5FF-FE8D-4A57-BC06-80934285D499}|WinFormsApp1\\WinFormsApp1.csproj|d:\\work files\\projects\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47B3B5FF-FE8D-4A57-BC06-80934285D499}|WinFormsApp1\\WinFormsApp1.csproj|d:\\work files\\projects\\tazkarti\\tazkarti\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47B3B5FF-FE8D-4A57-BC06-80934285D499}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47B3B5FF-FE8D-4A57-BC06-80934285D499}|WinFormsApp1\\WinFormsApp1.csproj|D:\\work files\\projects\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47B3B5FF-FE8D-4A57-BC06-80934285D499}|WinFormsApp1\\WinFormsApp1.csproj|D:\\work files\\projects\\tazkarti\\tazkarti\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47B3B5FF-FE8D-4A57-BC06-80934285D499}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\work files\\projects\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\work files\\projects\\tazkarti\\tazkarti\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "D:\\work files\\projects\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "D:\\work files\\projects\\tazkarti\\tazkarti\\WinFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:40:35.611Z",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\work files\\projects\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\work files\\projects\\tazkarti\\tazkarti\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "D:\\work files\\projects\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\work files\\projects\\tazkarti\\tazkarti\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
