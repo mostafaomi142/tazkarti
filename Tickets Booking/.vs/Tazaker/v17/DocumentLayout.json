@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\work files\\projects\\Tickets Booking\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|c:\\users\\pc\\desktop\\tazkarti\\tickets booking\\tazaker\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|solutionrelative:tazaker\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\tazaker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|solutionrelative:tazaker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|c:\\users\\pc\\desktop\\tazkarti\\tickets booking\\tazaker\\tazaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|solutionrelative:tazaker\\tazaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\tazaker\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C4BFB64-2DE8-4726-BAFC-5AFC8E2FBA68}|Tazaker\\Tazaker.csproj|solutionrelative:tazaker\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Form2.cs",
+              "RelativeDocumentMoniker": "Tazaker\\Form2.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Form2.cs [Design]",
+              "RelativeToolTip": "Tazaker\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:04:47.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tazaker.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Tazaker.csproj",
+              "RelativeDocumentMoniker": "Tazaker\\Tazaker.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Tazaker.csproj",
+              "RelativeToolTip": "Tazaker\\Tazaker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T12:04:06.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Form1.cs",
+              "RelativeDocumentMoniker": "Tazaker\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Form1.cs [Design]",
+              "RelativeToolTip": "Tazaker\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:02:26.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Matches.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Matches.cs",
+              "RelativeDocumentMoniker": "Tazaker\\Matches.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Matches.cs [Design]",
+              "RelativeToolTip": "Tazaker\\Matches.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:46:47.108Z"
             }
           ]
         }

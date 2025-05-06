@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tazaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67735d0a7d0ca0490e76ad749dc8faa05fc85ef5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tazaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tazaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

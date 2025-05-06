@@ -15,3 +15,21 @@ D:\work files\projects\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\WindowsF
 D:\work files\projects\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\WindowsFormsApp12.signfrom3.resources
 D:\work files\projects\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.signfrom4.resources
 D:\work files\projects\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.TicketsHistory.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.Home.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Matches.Matches.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.Profile_Form.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\WindowsFormsApp12.signform1.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\WindowsFormsApp12.signform2.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\WindowsFormsApp12.signform5.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\WindowsFormsApp12.signfrom3.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.signfrom4.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.TicketsHistory.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.AssemblyInfo.cs
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\Tazaker.sourcelink.json
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\project.Form1.resources
+C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\obj\Debug\net8.0-windows\project.Form2.resources
