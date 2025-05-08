@@ -14,7 +14,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tazaker
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\liong\Desktop\clonefile\tazkarti\Tickets Booking\Tazaker\
+=======
+build_property.ProjectDir = C:\Users\pc\Desktop\tazkarti\Tickets Booking\Tazaker\
+>>>>>>> 26571d539d49aa341e6f6e174ec95d3ebfe07fbe
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

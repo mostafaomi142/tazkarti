@@ -156,7 +156,6 @@
             this.kryptonPanel6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.kryptonPanel7)).BeginInit();
             this.kryptonPanel7.SuspendLayout();
-            this.SuspendLayout();
             // 
             // kryptonPanel1
             // 

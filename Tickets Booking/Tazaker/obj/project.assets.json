@@ -1878,23 +1878,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\pc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work files\\projects\\Tickets Booking\\Tazaker\\Tazaker.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Tazaker.csproj",
       "projectName": "Tazaker",
-      "projectPath": "D:\\work files\\projects\\Tickets Booking\\Tazaker\\Tazaker.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\work files\\projects\\Tickets Booking\\Tazaker\\obj\\",
+      "projectPath": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\Tazaker.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\tazkarti\\Tickets Booking\\Tazaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
