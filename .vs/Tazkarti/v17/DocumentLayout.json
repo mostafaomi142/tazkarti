@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\work files\\projects\\tazkarti\\",
+  "WorkspaceRootPath": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{066D3327-8192-464C-AE46-CDA07A126E12}|Tazkarti\\Tazkarti.csproj|d:\\work files\\projects\\tazkarti\\tazkarti\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{066D3327-8192-464C-AE46-CDA07A126E12}|Tazkarti\\Tazkarti.csproj|c:\\users\\liong\\desktop\\clonefile\\tazkarti\\tazkarti\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{066D3327-8192-464C-AE46-CDA07A126E12}|Tazkarti\\Tazkarti.csproj|solutionrelative:tazkarti\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D3327-8192-464C-AE46-CDA07A126E12}|Tazkarti\\Tazkarti.csproj|c:\\users\\liong\\desktop\\clonefile\\tazkarti\\tazkarti\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D3327-8192-464C-AE46-CDA07A126E12}|Tazkarti\\Tazkarti.csproj|solutionrelative:tazkarti\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D3327-8192-464C-AE46-CDA07A126E12}|Tazkarti\\Tazkarti.csproj|c:\\users\\liong\\desktop\\clonefile\\tazkarti\\tazkarti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D3327-8192-464C-AE46-CDA07A126E12}|Tazkarti\\Tazkarti.csproj|solutionrelative:tazkarti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,13 +33,46 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\tazkarti\\Program.cs",
+              "RelativeDocumentMoniker": "tazkarti\\Program.cs",
+              "ToolTip": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\tazkarti\\Program.cs",
+              "RelativeToolTip": "tazkarti\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:05:44.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\tazkarti\\home.Designer.cs",
+              "RelativeDocumentMoniker": "tazkarti\\home.Designer.cs",
+              "ToolTip": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\tazkarti\\home.Designer.cs",
+              "RelativeToolTip": "tazkarti\\home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:05:37.168Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "home.cs [Design]",
-              "DocumentMoniker": "D:\\work files\\projects\\Tazkarti\\Tazkarti\\home.cs",
-              "RelativeDocumentMoniker": "Tazkarti\\home.cs",
-              "ToolTip": "D:\\work files\\projects\\Tazkarti\\Tazkarti\\home.cs [Design]*",
-              "RelativeToolTip": "Tazkarti\\home.cs [Design]*",
+              "DocumentMoniker": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\tazkarti\\home.cs",
+              "RelativeDocumentMoniker": "tazkarti\\home.cs",
+              "ToolTip": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\tazkarti\\home.cs [Design]",
+              "RelativeToolTip": "tazkarti\\home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T17:38:31.636Z",
               "EditorCaption": " [Design]"

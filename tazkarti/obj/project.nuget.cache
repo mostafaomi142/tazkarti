@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qgyABTJGEiM=",
+  "dgSpecHash": "YXrwYBUyrvQ=",
   "success": true,
-  "projectFilePath": "D:\\work files\\projects\\Tazkarti\\Tazkarti\\Tazkarti.csproj",
+  "projectFilePath": "C:\\Users\\liong\\Desktop\\clonefile\\tazkarti\\Tazkarti\\Tazkarti.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\krypton.toolkit\\95.25.4.111\\krypton.toolkit.95.25.4.111.nupkg.sha512"
+    "C:\\Users\\liong\\.nuget\\packages\\krypton.toolkit\\95.25.4.111\\krypton.toolkit.95.25.4.111.nupkg.sha512"
   ],
   "logs": []
 }

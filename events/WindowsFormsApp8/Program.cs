@@ -1,4 +1,4 @@
-﻿using ComponentFactory.Krypton.Toolkit;
+using ComponentFactory.Krypton.Toolkit;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +20,7 @@ namespace WindowsFormsApp8
             KryptonManager kryptonManager = new KryptonManager();
             kryptonManager.GlobalPaletteMode = PaletteModeManager.Office2010Blue;
 
-            Application.Run(new Form1());
+            Application.Run(new EventForm());
         }
     }
 }

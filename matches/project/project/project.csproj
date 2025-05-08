@@ -33,8 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Krypton.Toolkit, Version=90.25.2.55, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
-      <HintPath>..\packages\Krypton.Toolkit.90.25.2.55\lib\net472\Krypton.Toolkit.dll</HintPath>
+    <Reference Include="Krypton.Toolkit, Version=95.25.4.111, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Krypton.Toolkit.95.25.4.111\lib\net472\Krypton.Toolkit.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
